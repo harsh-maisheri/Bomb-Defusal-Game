@@ -1,2 +1,2 @@
-.ext linguist-language=YourLanguage
-.python linguist-language=html
+.html linguist-language=python
+.html linguist-language=python
